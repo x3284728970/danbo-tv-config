@@ -1,0 +1,219 @@
+{
+ "wallpaper": "",
+ "sites": [
+  {
+   "key": "danbo_165",
+   "name": "蛋蛋",
+   "type": 1,
+   "api": "https://post.cfysoft.cc/api.php/provide/vod/from/YYNB/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "danbo_146",
+   "name": "影剧",
+   "type": 1,
+   "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "danbo_157",
+   "name": "光速",
+   "type": 1,
+   "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "danbo_143",
+   "name": "虎牙",
+   "type": 1,
+   "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "danbo_159",
+   "name": "非凡",
+   "type": 1,
+   "api": "http://api.ffzyapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "danbo_33",
+   "name": "无忧",
+   "type": 1,
+   "api": "https://www.wyvod.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "danbo_158",
+   "name": "魔都",
+   "type": 1,
+   "api": "https://www.mdzyapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "danbo_125",
+   "name": "猫眼",
+   "type": 1,
+   "api": "https://api.maoyanapi.top/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "danbo_1",
+   "name": "极速",
+   "type": 1,
+   "api": "https://jszyapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "danbo_160",
+   "name": "西瓜",
+   "type": 1,
+   "api": "https://caiji.xgzyapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "danbo_124",
+   "name": "茅台",
+   "type": 1,
+   "api": "https://caiji.maotaizy.cc/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "danbo_32",
+   "name": "如意",
+   "type": 1,
+   "api": "https://cj.rycjapi.com/api.php/provide/vod/at/json/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "danbo_130",
+   "name": "天堂",
+   "type": 1,
+   "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "danbo_156",
+   "name": "红牛",
+   "type": 1,
+   "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "danbo_19",
+   "name": "量子",
+   "type": 1,
+   "api": "https://cj.lziapi.com/api.php/provide/vod/at/json/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "danbo_119",
+   "name": "暴风",
+   "type": 1,
+   "api": "https://bfzyapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "danbo_155",
+   "name": "不语",
+   "type": 1,
+   "api": "http://38.76.202.248:8203/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  }
+ ],
+ "lives": [],
+ "parses": [
+  {
+   "name": "蛋蛋解析",
+   "type": 1,
+   "url": "https://jiexi.69mini.com/api/?key=ff95d2151c685b6587759f39792a1c36&url="
+  },
+  {
+   "name": "JSON解析",
+   "type": 1,
+   "url": "https://json.cfysoft.cc/api/?key=1e42acb99d3cdc5cf8d1ece52cd1623a&url="
+  },
+  {
+   "name": "芒果TV",
+   "type": 1,
+   "url": "https://jx.xmflv.com/?url="
+  }
+ ],
+ "flags": [
+  "youku",
+  "qq",
+  "iqiyi",
+  "qiyi",
+  "letv",
+  "sohu",
+  "tudou",
+  "pptv",
+  "mgtv",
+  "wasu",
+  "bilibili"
+ ],
+ "spider": "",
+ "ads": [],
+ "rules": [],
+ "ijk": [
+  {
+   "group": "软解码",
+   "options": [
+    {
+     "category": 4,
+     "name": "opensles",
+     "value": "0"
+    },
+    {
+     "category": 4,
+     "name": "over-rational-voice",
+     "value": "1"
+    }
+   ]
+  }
+ ],
+ "doh": [
+  {
+   "name": "阿里DoH",
+   "url": "https://dns.alidns.com/dns-query",
+   "ips": [
+    "223.5.5.5",
+    "223.6.6.6"
+   ]
+  }
+ ]
+}
