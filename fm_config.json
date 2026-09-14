@@ -1683,6 +1683,12 @@
  ],
  "lives": [
   {
+   "name": "🌸Aya短剧",
+   "type": 0,
+   "url": "https://aya-hdou.pages.dev/live.m3u",
+   "playerType": 1
+  },
+  {
    "name": "👖裤佬IPTV直播",
    "type": 0,
    "url": "https://live.445569.xyz/live.m3u"
